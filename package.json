@@ -1,0 +1,16 @@
+{
+  "name": "termux-economy-bot",
+  "version": "1.0.0",
+  "description": "Bot termux",
+  "main": "index.js",
+  "dependencies": {
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jesen-N",
+  "license": "ISC"
+}
