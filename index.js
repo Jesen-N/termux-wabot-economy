@@ -77,7 +77,7 @@ async function start() {
 
         //jangan di hapus bro!
         case 'about':
-          client.sendMessage(from, "Bot ini di buat oleh Jesen N#9071, jika kamu ingin menggunakan bot ini klik saja link yang ada di bawah!\nLink: Soon!", text, {
+          client.sendMessage(from, "Bot ini di buat oleh Jesen N#9071, jika kamu ingin menggunakan bot ini klik saja link yang ada di bawah!\nLink: https://github.com/Jesen-N/termux-wabot-economy", text, {
             quoted: sen
           });
           break;
