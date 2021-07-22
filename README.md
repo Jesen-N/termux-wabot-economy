@@ -48,5 +48,5 @@ Other:
 ```
 
 ## Thanks To
-[@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
-[MhankBarBar](https://github.com/MhankBarBar)
+- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
+- [MhankBarBar](https://github.com/MhankBarBar)
