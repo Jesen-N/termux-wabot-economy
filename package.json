@@ -4,7 +4,7 @@
   "description": "Bot termux",
   "main": "index.js",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.3.0",
+    "@adiwajshing/baileys": "^3.5.1",
     "parse-ms": "^2.1.0",
     "quick.db": "^7.1.3"
   },
