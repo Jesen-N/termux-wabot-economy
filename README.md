@@ -8,3 +8,9 @@
 <a href="https://github.com/Jesen-N"><img title="Author" src="https://img.shields.io/badge/Author-Jesen N-blueviolet.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+## Info
+- termux whatsapp bot economy use mongo.db
+
+## Install
+- bash install.sh
+- node index.js
