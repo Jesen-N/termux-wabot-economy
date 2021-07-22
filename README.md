@@ -9,7 +9,7 @@
 </p>
 
 ## Info
-- termux whatsapp bot economy use mongo.db
+- termux whatsapp bot economy use quick.db
 
 ## Install
 - bash install.sh
