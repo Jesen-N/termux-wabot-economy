@@ -12,6 +12,7 @@
 - termux whatsapp bot economy use quick.db
 
 ## Install
+- git clone https://github.com/Jesen-N/termux-wabot-economy
 - bash install.sh
 - node index.js
 
