@@ -33,10 +33,12 @@ Command:
 > daily
 > work
 > balance/bal
+> leaderboard/lb
 > pay [tag] [amount]
 > deposit/dep [all/amout]
 > withdraw/wd [all/amount]
 > gamble/gb [amount]
+> qq [amount]
 > shop
 > buy [item]
 
