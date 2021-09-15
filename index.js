@@ -260,6 +260,15 @@ ${prefix}about`;
           } else {
             let mentioned1 =
               sen.message.extendedTextMessage.contextInfo.mentionedJid[0];
+            if (!mentioned1)
+              return client.sendMessage(
+                from,
+                `Nama: ${username}\nUang: *${selfbal.toLocaleString()}*\nBank: *${selfbank.toLocaleString()}*`,
+                text,
+                {
+                  quoted: sen,
+                }
+              );
             let bankmen = groupMembers.find((x) => x.jid === mentioned1);
             let notselfbal = db.fetch(`uang_${bankmen.jid}`);
             let notselfbank = db.fetch(`bank_${bankmen.jid}`);
