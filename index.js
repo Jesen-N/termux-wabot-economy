@@ -11,7 +11,7 @@ const config = require("./data/config.json");
 prefix = config.prefix;
 async function start() {
   const client = new WAConnection();
-
+  client.version = [2, 2144, 10];
   client.on("qr", () => {
     console.log("Sqan Qr Code");
   });
