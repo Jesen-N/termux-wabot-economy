@@ -21,7 +21,7 @@ Edit the required value in `data/config.json`.
 ```json
 {
     "prefix": "!",
-    "ownerNumber": " 628xxxx@s.whatsapp.net
+    "ownerNumber": "628xxxx@s.whatsapp.net"
 }
 ```
 
